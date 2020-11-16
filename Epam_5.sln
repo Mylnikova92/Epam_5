@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam_5", "Epam_5\Epam_5.csproj", "{26BB5574-58BB-41F7-BF61-7AD8362964C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26BB5574-58BB-41F7-BF61-7AD8362964C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BB5574-58BB-41F7-BF61-7AD8362964C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BB5574-58BB-41F7-BF61-7AD8362964C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BB5574-58BB-41F7-BF61-7AD8362964C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D098CB-6EBD-407B-9AB3-1BC02D21E8F8}
+	EndGlobalSection
+EndGlobal
